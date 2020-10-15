@@ -1,2 +1,3 @@
 # Game1
-1st Game
+My First Game made on Unity.
+Use "a" and "d" to move left and right to avoid the obstacle.
